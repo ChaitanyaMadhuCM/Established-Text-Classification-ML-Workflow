@@ -16,6 +16,7 @@ This notebook demonstrates the implementation of a multi-class text classificati
 
 3. **Import Dataset**
    - Description of the dataset used for training and evaluation.
+   - https://www.kaggle.com/competitions/learn-ai-bbc/data
 
 4. **Exploratory Data Analysis (EDA - 1)**
    - Visualization of data distribution.
