@@ -1,5 +1,5 @@
 # Text-Classification-ML-Workflow
-Multi-Class Text Classification Workflow using ML and NLP (end-to-end) 
+**Well-Structured and Industry-Standard approach to: Multi-Class Text Classification using ML and NLP (end-to-end).**
 
 ## Overview
 
