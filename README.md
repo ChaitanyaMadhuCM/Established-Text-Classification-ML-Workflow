@@ -1,9 +1,9 @@
 # Text-Classification-ML-Workflow
-**Well-Structured and Industry-Standard approach to: Multi-Class Text Classification using ML and NLP (end-to-end).**
+**Industry-Standard approach to: Multi-Class Text Classification using ML and NLP (end-to-end).**
 
 ## Overview
 
-This notebook demonstrates the implementation of a multi-class text classification model using machine learning techniques. The goal is to classify textual data into different predefined categories, such as business, entertainment, politics, sports, and technology. The model is trained on a dataset containing text samples from various categories.
+This notebook demonstrates the implementation of a multi-class text classification model using machine learning techniques. The goal is to classify input textual data into a predefined category, such as business, entertainment, politics, sports, and technology, by training a model on a labelled dataset.
 
 ## Table of Contents
 
@@ -55,7 +55,10 @@ This notebook demonstrates the implementation of a multi-class text classificati
 
 
 
-## Requirements
+## Pre-requisites
 
 - Python 3.11.7
-- Libraries (install using `pip install -r requirements.txt` or `conda env create -f environment.yml`).
+- Libraries
+   - create a virtual environment using `python -m venv classifytext_ml_env`
+   - activate the virtual environment using `classifytext_ml_env\Scripts\activate`
+   - install the libraries using `pip install -r requirements.txt`
